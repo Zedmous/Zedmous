@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
