@@ -80,6 +80,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Zedmous/Zedmous/output/snake.svg" alt="Snake animation" />
-
 ###
