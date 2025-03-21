@@ -1,4 +1,4 @@
-<br clear="both">
+<br>
 
 <img align="right" height="200" src="files/perfil.jpg"  />
 
