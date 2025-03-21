@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="center" height="200" src="files/perfil.jpg"  />
+<img align="right" height="200" src="files/perfil.jpg"  />
 
 ###
 
