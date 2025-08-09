@@ -7,10 +7,10 @@
 <h2 align="left">Hi 👋! My name is Eduardo Nieves, and I'm a Software Engineer, Mathematician, and Data Scientist from Venezuela. I'm passionate about technology, problem-solving, and innovation. In addition to my professional interests, I love playing video games, exploring fashion design, and diving into everything related to artificial intelligence. Whether it's building intelligent systems, creating stylish designs, or enjoying the latest games, I'm always excited to learn and explore new horizons!</h2>
 
 ###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Zedmous.Zedmous&right_color=seagreen&left_text=Profile%20views"  />
 </div>
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
