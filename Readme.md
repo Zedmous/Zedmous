@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Senior+Backend+%26+Full-Stack+Architect;Mathematician+%26+Data+Science+Specialist;AWS+Cloud+Architect+%26+Enterprise+Migrations;University+Professor+%26+Tech+Mentor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Senior+Backend+%26+Full-Stack+Architect;AI-Augmented+Engineer+%26+Agentic+Workflows;Mathematician+%26+Data+Science+Specialist;AWS+Cloud+Architect+%26+Enterprise+Migrations;University+Professor+%26+Tech+Mentor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,6 +26,7 @@ With **8+ years of professional experience**, I specialize in designing and scal
 
 * 🚀 **Enterprise Systems & Scalability**: Extensive track record designing resilient microservices and distributed APIs with Node.js, TypeScript, NestJS, Python, and Laravel.
 * 🏛️ **AWS Cloud Architectures**: Proven experience in cloud-native infrastructure, including critical governmental systems migration (Chilean National Customs with Arkho/Netred).
+* ⚡ **Agentic AI & Augmented Engineering**: Advanced practitioner in next-generation software development leveraging autonomous AI agents (**Cursor, Claude, Google Antigravity, OpenAI**). Designing agentic workflows, prompt/context architectures, and tool-calling integrations to accelerate enterprise delivery while enforcing strict architectural standards.
 * 🤖 **Applied Mathematics & AI**: Currently pursuing a B.S. in Mathematical Sciences (UCLA). I leverage mathematical rigor, numerical analysis, and machine learning to optimize algorithms and solve complex data problems.
 * 📐 **Fashion Industry & Pattern Making (El Arte del Patronaje)**: Beyond software, I am deeply passionate about garment drafting and the fashion industry. Far from being merely intuitive, pattern making is pure applied mathematics—demanding millimeter precision, geometric drafting, anthropometric proportions, and spatial reasoning to turn 2D equations into structured 3D reality. Both in code architecture and couture, the law is the same: **precision, structure, and elegance**.
 * 🎓 **Teaching & Mentorship**: Passionate university educator with a Postgraduate Diploma in University Teaching (UPEL). Mentored 120+ engineers in GitFlow, clean code, and Agile Scrum.
@@ -44,6 +45,14 @@ With **8+ years of professional experience**, I specialize in designing and scal
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
+
+#### 🤖 Agentic AI & AI-Augmented Workflows
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Antigravity-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/Claude%20AI-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
 
 #### ☁️ Cloud, DevOps & Infrastructure (AWS Ecosystem)
 <p align="left">
@@ -121,7 +130,7 @@ With **8+ years of professional experience**, I specialize in designing and scal
 ### 💼 Availability & Contact
 
 <p align="center">
-  <b>Available for:</b> Senior Backend / Full-Stack Roles • AWS Cloud Architecture • High-Impact AI Consulting
+  <b>Available for:</b> Senior Backend / Full-Stack Roles • AWS Cloud Architecture • Agentic AI & Systems Engineering
 </p>
 
 <p align="center">
