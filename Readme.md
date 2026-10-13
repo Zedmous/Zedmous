@@ -14,50 +14,50 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="About Me" width="32" height="32" valign="middle" /> About Me
+### 👨‍💻 About Me
 
 Hi 👋! My name is **Eduardo Nieves**, and I'm a **Software Engineer, Mathematician, and Data Scientist** from Venezuela 🇻🇪.
 
 I'm deeply passionate about technology, complex problem-solving, and continuous innovation. 
 
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="22" height="22" valign="middle" /> **Full-Stack & Cloud Architecture**: Designing and building resilient, secure, and high-concurrency systems from database design to scalable cloud deployment.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="22" height="22" valign="middle" /> **AI & Data Science**: Leveraging strong mathematical foundations and modern machine learning frameworks to build predictive models and intelligent automation.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="22" height="22" valign="middle" /> **AWS Cloud Native**: Architecting scalable serverless, microservices, and containerized infrastructures following AWS best practices.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Triangular%20Ruler.png" alt="Pattern Making" width="22" height="22" valign="middle" /> **Fashion Industry & Pattern Making (Patronaje)**: Beyond code and algorithms, I have a deep fascination for fashion design and garment pattern making. Far from being merely artistic, pattern drafting is pure applied mathematics—demanding meticulous calculations, geometric precision, anthropometric formulas, and spatial reasoning to transform flat 2D drafts into structured 3D reality. For me, architecting software systems and engineering a tailored garment share the exact same essence: **precision, structure, and elegance**.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" alt="Video Game" width="22" height="22" valign="middle" /> **Other Passions**: Exploring cutting-edge AI breakthroughs, mathematical modeling, and video games.
+* 🚀 **Full-Stack & Cloud Architecture**: Designing and building resilient, secure, and high-concurrency systems from database design to scalable cloud deployment.
+* 🤖 **AI & Data Science**: Leveraging strong mathematical foundations and modern machine learning frameworks to build predictive models and intelligent automation.
+* ☁️ **AWS Cloud Native**: Architecting scalable serverless, microservices, and containerized infrastructures following AWS best practices.
+* 📐 **Fashion Industry & Pattern Making (Patronaje)**: Beyond code and algorithms, I have a deep fascination for fashion design and garment pattern making. Far from being merely artistic, pattern drafting is pure applied mathematics—demanding meticulous calculations, geometric precision, anthropometric formulas, and spatial reasoning to transform flat 2D drafts into structured 3D reality. For me, architecting software systems and engineering a tailored garment share the exact same essence: **precision, structure, and elegance**.
+* 🎮 **Other Passions**: Exploring cutting-edge AI breakthroughs, mathematical modeling, and video games.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tech Stack" width="30" height="30" valign="middle" /> Tech Stack & Ecosystem
+### 🛠️ Tech Stack & Ecosystem
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="22" height="22" valign="middle" /> Cloud, DevOps & Infrastructure (AWS Ecosystem)
+#### ☁️ Cloud, DevOps & Infrastructure (AWS Ecosystem)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,githubactions,linux" alt="Cloud & DevOps" />
 </p>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Backend" width="22" height="22" valign="middle" /> Backend & Architecture
+#### ⚙️ Backend & Architecture
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs,ts,py,fastapi,django" alt="Backend & Architecture" />
 </p>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Frontend" width="22" height="22" valign="middle" /> Frontend & UI/UX
+#### 💻 Frontend & UI/UX
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,js,html,css,tailwind,bootstrap" alt="Frontend & UI/UX" />
 </p>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="AI" width="22" height="22" valign="middle" /> AI, Machine Learning & Mathematical Modeling
+#### 🤖 AI, Machine Learning & Mathematical Modeling
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda,r" alt="AI & Data Science" />
 </p>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Databases" width="22" height="22" valign="middle" /> Databases & Storage
+#### 🗄️ Databases & Storage
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" alt="Databases & Storage" />
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="30" height="30" valign="middle" /> GitHub Activity & Analytics
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zedmous&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4" height="160" alt="GitHub Stats" />
@@ -81,7 +81,7 @@ I'm deeply passionate about technology, complex problem-solving, and continuous 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Connect" width="30" height="30" valign="middle" /> Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zedmous/" target="_blank">
