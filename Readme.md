@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=220&section=header&text=Eduardo%20Nieves&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Mathematician%20%E2%80%A2%20Data%20Scientist&descAlignY=58&descAlign=50&descColor=e0e7ff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=220&section=header&text=Eduardo%20Nieves&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Mathematician%20%E2%80%A2%20Tech%20Lead&descAlignY=58&descAlign=50&descColor=e0e7ff" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full-Stack+Architect;Mathematician+%26+Data+Scientist;Specialized+in+Artificial+Intelligence+%26+AWS+Cloud;Building+intelligent%2C+scalable+digital+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Senior+Backend+%26+Full-Stack+Architect;Mathematician+%26+Data+Science+Specialist;AWS+Cloud+Architect+%26+Enterprise+Migrations;University+Professor+%26+Tech+Mentor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,19 +12,34 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Zedmous.Zedmous&right_color=8b5cf6&left_color=1e1b4b&left_text=Profile%20Views" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <b>🌎 Global Remote Experience:</b> United States 🇺🇸 • Chile 🇨🇱 • Peru 🇵🇪 • Venezuela 🇻🇪
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
-Hi 👋! My name is **Eduardo Nieves**, and I'm a **Software Engineer, Mathematician, and Data Scientist** from Venezuela 🇻🇪.
+Hi 👋! My name is **Eduardo Nieves**, and I'm a **Senior Software Engineer, Mathematician, and University Professor** based in Venezuela 🇻🇪.
 
-I'm deeply passionate about technology, complex problem-solving, and continuous innovation. 
+With **8+ years of professional experience**, I specialize in designing and scaling high-concurrency backend architectures, mission-critical cloud migrations, and full-stack systems for international enterprises.
 
-* 🚀 **Full-Stack & Cloud Architecture**: Designing and building resilient, secure, and high-concurrency systems from database design to scalable cloud deployment.
-* 🤖 **AI & Data Science**: Leveraging strong mathematical foundations and modern machine learning frameworks to build predictive models and intelligent automation.
-* ☁️ **AWS Cloud Native**: Architecting scalable serverless, microservices, and containerized infrastructures following AWS best practices.
-* 📐 **Fashion Industry & Pattern Making (Patronaje)**: Beyond code and algorithms, I have a deep fascination for fashion design and garment pattern making. Far from being merely artistic, pattern drafting is pure applied mathematics—demanding meticulous calculations, geometric precision, anthropometric formulas, and spatial reasoning to transform flat 2D drafts into structured 3D reality. For me, architecting software systems and engineering a tailored garment share the exact same essence: **precision, structure, and elegance**.
-* 🎮 **Other Passions**: Exploring cutting-edge AI breakthroughs, mathematical modeling, and video games.
+* 🚀 **Enterprise Systems & Scalability**: Extensive track record designing resilient microservices and distributed APIs with Node.js, TypeScript, NestJS, Python, and Laravel.
+* 🏛️ **AWS Cloud Architectures**: Proven experience in cloud-native infrastructure, including critical governmental systems migration (Chilean National Customs with Arkho/Netred).
+* 🤖 **Applied Mathematics & AI**: Currently pursuing a B.S. in Mathematical Sciences (UCLA). I leverage mathematical rigor, numerical analysis, and machine learning to optimize algorithms and solve complex data problems.
+* 📐 **Fashion Industry & Pattern Making (El Arte del Patronaje)**: Beyond software, I am deeply passionate about garment drafting and the fashion industry. Far from being merely intuitive, pattern making is pure applied mathematics—demanding millimeter precision, geometric drafting, anthropometric proportions, and spatial reasoning to turn 2D equations into structured 3D reality. Both in code architecture and couture, the law is the same: **precision, structure, and elegance**.
+* 🎓 **Teaching & Mentorship**: Passionate university educator with a Postgraduate Diploma in University Teaching (UPEL). Mentored 120+ engineers in GitFlow, clean code, and Agile Scrum.
+
+---
+
+### 🏛️ Impact & Enterprise Highlights
+
+| Project / Client | Domain & Scope | Key Achievements & Tech Stack |
+| :--- | :--- | :--- |
+| **Chilean National Customs Migration** *(Arkho / Netred)* | Governmental / Trade Logistics | Cloud-native migration of mission-critical customs operations into **AWS**, ensuring zero-downtime resilience and high-volume transactional security. |
+| **Miami Never Sleeps** *(Florida, USA)* | High-Volume E-Commerce Backend | Re-architected transactional refund & order dispatch engines, implemented RBAC security, and standardized API documentation with Swagger. `Node.js` `Prisma` `PostgreSQL` |
+| **Organizame SPA** *(Santiago, Chile)* | B2B SaaS Platform | Engineered microservices serving **500+ active businesses**, reducing production error rates by **20%** and boosting user satisfaction by **70%**. `Node.js` `MongoDB` `MySQL` |
+| **IUJO & Academic Cell Labs** *(Venezuela)* | Engineering Education & Scrum | Led development cells delivering software on 4-month sprints with a 100% defense success rate, training 120+ students on professional Git/GitHub workflows. |
 
 ---
 
@@ -57,6 +72,28 @@ I'm deeply passionate about technology, complex problem-solving, and continuous 
 
 ---
 
+### 🎓 Teaching & Open Source Starter Kits
+
+*Educational repositories designed for university lectures, workshops, and developer onboarding:*
+
+* 📦 **Git & GitHub Flow Starter**: Step-by-step workflow guide for branching, commits, and collaborative teams.
+* 🐳 **Docker for Developers Kit**: Practical containerization templates (Dockerfile + Compose) for local and staging environments.
+* ⚡ **Node.js & Express REST API Boilerplate**: Clean, modular API foundation with TypeScript, error handling, and Prisma ORM.
+* 🚀 **Modern Frameworks Workshop (1-Day Crash Course)**: Practical starter linking a reactive frontend with a structured backend.
+
+---
+
+### 📜 Education & Verified Credentials
+
+* 🎓 **Licenciatura en Ciencias Matemáticas** — *Universidad Centroccidental Lisandro Alvarado (UCLA)* `2025 – Present`
+* 🎓 **Ingeniero en Informática** — *Universidad Centroccidental Lisandro Alvarado (UCLA)* `Graduado 2023`
+* 🎓 **Diplomado en Docencia Universitaria** — *Universidad Pedagógica Experimental Libertador (UPEL)* `2014`
+* 🎓 **T.S.U. en Informática (Mención de Honor)** — *Instituto Universitario Jesús Obrero (IUJO)* `2013`
+* 🤖 **[Data Science e Inteligencia Artificial](https://platzi.com/p/ejnsilva29869/curso/2807-aprender-data-ia/diploma/detalle/)** — *Platzi (Machine Learning & Neural Networks)*
+* 🟢 **[Node.js: De Cero a Experto](https://udemy-certificate.s3.amazonaws.com/pdf/UC-b6daa836-01ea-4b84-bb6e-44d42fadcc08.pdf)** — *Udemy (29h Microservices, JWT, Mongo & Cloud Deployment)*
+
+---
+
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
@@ -81,7 +118,11 @@ I'm deeply passionate about technology, complex problem-solving, and continuous 
 
 ---
 
-### 🌐 Connect With Me
+### 💼 Availability & Contact
+
+<p align="center">
+  <b>Available for:</b> Senior Backend / Full-Stack Roles • AWS Cloud Architecture • High-Impact AI Consulting
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zedmous/" target="_blank">
