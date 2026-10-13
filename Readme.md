@@ -20,95 +20,39 @@ Hi 👋! My name is **Eduardo Nieves**, and I'm a **Software Engineer, Mathemati
 
 I'm deeply passionate about technology, complex problem-solving, and continuous innovation. 
 
-* 🚀 **Full-Stack & Cloud Architecture**: Designing and building resilient, secure, and high-performance applications from database to cloud deployment.
+* 🚀 **Full-Stack & Cloud Architecture**: Designing and building resilient, secure, and high-concurrency systems from database design to scalable cloud deployment.
 * 🤖 **AI & Data Science**: Leveraging strong mathematical foundations and modern machine learning frameworks to build predictive models and intelligent automation.
-* ☁️ **AWS Cloud Native**: Architecting serverless, microservices, and containerized infrastructures with AWS best practices.
-* 📐 **Fashion Industry & Pattern Making (Patronaje)**: Beyond software and algorithms, I have a genuine passion for fashion design and garment pattern making. Far from being just creative intuition, pattern drafting is pure applied mathematics—demanding meticulous calculations, geometric precision, anthropometric formulas, and spatial reasoning to transform flat 2D drafts into structured 3D reality. For me, architecting software systems and engineering a tailored garment share the exact same essence: precision, structure, and elegance.
+* ☁️ **AWS Cloud Native**: Architecting scalable serverless, microservices, and containerized infrastructures following AWS best practices.
+* 📐 **Fashion Industry & Pattern Making (Patronaje)**: Beyond code and algorithms, I have a deep fascination for fashion design and garment pattern making. Far from being merely artistic, pattern drafting is pure applied mathematics—demanding meticulous calculations, geometric precision, anthropometric formulas, and spatial reasoning to transform flat 2D drafts into structured 3D reality. For me, architecting software systems and engineering a tailored garment share the exact same essence: **precision, structure, and elegance**.
 * 🎮 **Other Passions**: Exploring cutting-edge AI breakthroughs, mathematical modeling, and video games.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Ecosystem
 
 #### ☁️ Cloud, DevOps & Infrastructure (AWS Ecosystem)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="38" alt="Kubernetes" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="38" alt="Nginx" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="38" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,githubactions,linux" alt="Cloud & DevOps" />
 </p>
 
 #### ⚙️ Backend & Architecture
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="38" alt="Laravel" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="PHP" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="38" alt="NestJS" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="38" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs,ts,py,fastapi,django" alt="Backend & Architecture" />
 </p>
 
 #### 💻 Frontend & UI/UX
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="Next.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="38" alt="Angular" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="38" alt="Vue.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,js,html,css,tailwind,bootstrap" alt="Frontend & UI/UX" />
 </p>
 
 #### 🤖 AI, Machine Learning & Mathematical Modeling
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="TensorFlow" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38" alt="PyTorch" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="38" alt="Anaconda" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="38" alt="R" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="Pandas" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda,r" alt="AI & Data Science" />
 </p>
 
 #### 🗄️ Databases & Storage
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="38" alt="Firebase" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="38" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" alt="Databases & Storage" />
 </p>
 
 ---
