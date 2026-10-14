@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zedmous/Zedmous/main/files/avatar-laboratory-violet.jpg" width="480" alt="Eduardo Nieves - The Power of Pure Abstraction" />
+  <img src="https://raw.githubusercontent.com/Zedmous/Zedmous/main/files/hero-banner.jpg" width="100%" alt="Eduardo Nieves - Software Architect & Mathematician | The Power of Abstraction" />
 </div>
 
 <div align="center">
