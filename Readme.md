@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=220&section=header&text=Eduardo%20Nieves&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Mathematician%20%E2%80%A2%20Tech%20Lead&descAlignY=58&descAlign=50&descColor=e0e7ff" width="100%" alt="Header Banner" />
+  <img src="files/hero-banner.jpg" width="100%" alt="Eduardo Nieves - Engineering & Design Portfolio | The Power of Abstraction" />
 </div>
 
 <div align="center">
