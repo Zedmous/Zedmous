@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="files/hero-banner.jpg" width="100%" alt="Eduardo Nieves - Engineering & Design Portfolio | The Power of Abstraction" />
+  <img src="files/hero-banner.jpg" width="100%" alt="Eduardo Nieves - Software Architect & Mathematician | The Power of Abstraction" />
 </div>
 
 <div align="center">
