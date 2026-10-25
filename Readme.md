@@ -18,10 +18,7 @@
 
 <div align="center">
   <a href="https://zedmous.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Official_Portfolio-zedmous.netlify.app-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Official Web Portfolio Astro" />
-  </a>
-  <a href="https://github.com/Zedmous/zedmous-portafolio-web" target="_blank">
-    <img src="https://img.shields.io/badge/Code_Repository-zedmous--portafolio--web-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-zedmous.netlify.app-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Web Portfolio Astro" />
   </a>
 </div>
 
@@ -31,7 +28,7 @@
 
 Hi 👋! My name is **Eduardo Nieves**, and I'm a **Senior Software Engineer, Mathematician, and University Professor** based in Venezuela 🇻🇪.
 
-* 🌐 **Official Web Portfolio & Scientific Lab**: [**zedmous.netlify.app**](https://zedmous.netlify.app) ([Repository](https://github.com/Zedmous/zedmous-portafolio-web)) — Interactive laboratory built with Astro v7, Vite & TypeScript, highlighting cloud architectures, applied mathematics demonstrations, and doctoral roadmap.
+* 🌐 **Web Portfolio & Scientific Lab**: [**zedmous.netlify.app**](https://zedmous.netlify.app) — Interactive laboratory built with Astro v7, Vite & TypeScript, highlighting cloud architectures, applied mathematics demonstrations, and doctoral roadmap.
 
 With **8+ years of professional experience**, I specialize in designing and scaling high-concurrency backend architectures, mission-critical cloud migrations, and full-stack systems for international enterprises.
 
@@ -109,8 +106,10 @@ With **8+ years of professional experience**, I specialize in designing and scal
 * 🎓 **Ingeniero en Informática** — *Universidad Centroccidental Lisandro Alvarado (UCLA)* `Graduado 2023`
 * 🎓 **Diplomado en Docencia Universitaria** — *Universidad Pedagógica Experimental Libertador (UPEL)* `2014`
 * 🎓 **T.S.U. en Informática (Alto Rendimiento Académico)** — *Instituto Universitario Jesús Obrero (IUJO)* `2013`
-* 🤖 **[Data Science e Inteligencia Artificial](https://platzi.com/p/ejnsilva29869/curso/2807-aprender-data-ia/diploma/detalle/)** — *Platzi (Machine Learning & Neural Networks)*
-* 🟢 **[Node.js: De Cero a Experto](https://udemy-certificate.s3.amazonaws.com/pdf/UC-b6daa836-01ea-4b84-bb6e-44d42fadcc08.pdf)** — *Udemy (29h Microservices, JWT, Mongo & Cloud Deployment)*
+* 🐍 **[Todo en Data Science y Machine Learning con Python](http://ude.my/UC-1496dc0e-710d-4559-aad1-7c475ad2f29a)** — *Udemy (16.5h Data Science & ML — 365 Careers)* `2026`
+* 🐳 **[Introducción a Docker para principiantes](https://www.udemy.com/certificate/UC-8614c8b1-4112-4900-ba5a-bdd8a2ba6f32/)** — *Udemy (2h Cloud & Containerization — Joan Amengual)* `2025`
+* 🤖 **[Data Science e Inteligencia Artificial](https://platzi.com/p/ejnsilva29869/curso/2807-aprender-data-ia/diploma/detalle/)** — *Platzi (Machine Learning & Neural Networks)* `2025`
+* 🟢 **[Node: De cero a experto](http://ude.my/UC-b6daa836-01ea-4b84-bb6e-44d42fadcc08)** — *Udemy (29h Microservices, JWT, Mongo & Cloud Deployment — Fernando Herrera)* `2023`
 
 ---
 
