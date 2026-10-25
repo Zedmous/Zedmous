@@ -16,11 +16,22 @@
   <b>🌎 Global Remote Experience:</b> United States 🇺🇸 • Chile 🇨🇱 • Peru 🇵🇪 • Venezuela 🇻🇪
 </p>
 
+<div align="center">
+  <a href="https://github.com/Zedmous/zedmous-portafolio-web" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Official_Portfolio-Astro_v7-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Official Web Portfolio Astro" />
+  </a>
+  <a href="https://github.com/Zedmous/zedmous-portafolio-web" target="_blank">
+    <img src="https://img.shields.io/badge/Code_Repository-zedmous--portafolio--web-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+</div>
+
 ---
 
 ### 👨‍💻 About Me
 
 Hi 👋! My name is **Eduardo Nieves**, and I'm a **Senior Software Engineer, Mathematician, and University Professor** based in Venezuela 🇻🇪.
+
+* 🌐 **Official Web Portfolio & Scientific Lab**: [**Zedmous / zedmous-portafolio-web**](https://github.com/Zedmous/zedmous-portafolio-web) — Interactive laboratory built with Astro v7, Vite & TypeScript, highlighting cloud architectures, applied mathematics demonstrations, and doctoral roadmap.
 
 With **8+ years of professional experience**, I specialize in designing and scaling high-concurrency backend architectures, mission-critical cloud migrations, and full-stack systems for international enterprises.
 
@@ -97,7 +108,7 @@ With **8+ years of professional experience**, I specialize in designing and scal
 * 🎓 **Licenciatura en Ciencias Matemáticas** — *Universidad Centroccidental Lisandro Alvarado (UCLA)* `2025 – Present`
 * 🎓 **Ingeniero en Informática** — *Universidad Centroccidental Lisandro Alvarado (UCLA)* `Graduado 2023`
 * 🎓 **Diplomado en Docencia Universitaria** — *Universidad Pedagógica Experimental Libertador (UPEL)* `2014`
-* 🎓 **T.S.U. en Informática (Mención de Honor)** — *Instituto Universitario Jesús Obrero (IUJO)* `2013`
+* 🎓 **T.S.U. en Informática (Alto Rendimiento Académico)** — *Instituto Universitario Jesús Obrero (IUJO)* `2013`
 * 🤖 **[Data Science e Inteligencia Artificial](https://platzi.com/p/ejnsilva29869/curso/2807-aprender-data-ia/diploma/detalle/)** — *Platzi (Machine Learning & Neural Networks)*
 * 🟢 **[Node.js: De Cero a Experto](https://udemy-certificate.s3.amazonaws.com/pdf/UC-b6daa836-01ea-4b84-bb6e-44d42fadcc08.pdf)** — *Udemy (29h Microservices, JWT, Mongo & Cloud Deployment)*
 
