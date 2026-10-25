@@ -17,8 +17,8 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Zedmous/zedmous-portafolio-web" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Official_Portfolio-Astro_v7-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Official Web Portfolio Astro" />
+  <a href="https://zedmous.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Official_Portfolio-zedmous.netlify.app-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Official Web Portfolio Astro" />
   </a>
   <a href="https://github.com/Zedmous/zedmous-portafolio-web" target="_blank">
     <img src="https://img.shields.io/badge/Code_Repository-zedmous--portafolio--web-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
@@ -31,7 +31,7 @@
 
 Hi 👋! My name is **Eduardo Nieves**, and I'm a **Senior Software Engineer, Mathematician, and University Professor** based in Venezuela 🇻🇪.
 
-* 🌐 **Official Web Portfolio & Scientific Lab**: [**Zedmous / zedmous-portafolio-web**](https://github.com/Zedmous/zedmous-portafolio-web) — Interactive laboratory built with Astro v7, Vite & TypeScript, highlighting cloud architectures, applied mathematics demonstrations, and doctoral roadmap.
+* 🌐 **Official Web Portfolio & Scientific Lab**: [**zedmous.netlify.app**](https://zedmous.netlify.app) ([Repository](https://github.com/Zedmous/zedmous-portafolio-web)) — Interactive laboratory built with Astro v7, Vite & TypeScript, highlighting cloud architectures, applied mathematics demonstrations, and doctoral roadmap.
 
 With **8+ years of professional experience**, I specialize in designing and scaling high-concurrency backend architectures, mission-critical cloud migrations, and full-stack systems for international enterprises.
 
