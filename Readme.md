@@ -32,8 +32,8 @@ Hi 👋! My name is **Eduardo Nieves**, and I'm a **Senior Software Engineer, Ma
 
 With **8+ years of professional experience**, I specialize in designing and scaling high-concurrency backend architectures, mission-critical cloud migrations, and full-stack systems for international enterprises.
 
-* 🚀 **Enterprise Systems & Scalability**: Extensive track record designing resilient microservices and distributed APIs with Node.js, TypeScript, NestJS, Python, and Laravel.
-* 🏛️ **AWS Cloud Architectures**: Proven experience in cloud-native infrastructure, including critical governmental systems migration (Chilean National Customs with Arkho/Netred).
+* 🚀 **Enterprise Systems & Polyglot Scalability**: Extensive track record designing, maintaining, and scaling resilient microservices and full-stack platforms across **TypeScript / Node.js (`NestJS`, `Express`, `Next.js`, `React`, `Angular`, `Vue.js`)**, **PHP / Laravel**, **Python (`FastAPI`)**, and **Java (Legacy Microservices)**.
+* 🏛️ **AWS Cloud Architectures & Legacy Modernization**: Proven experience in cloud-native infrastructure and critical governmental systems modernization (**Chilean National Customs** via consulting alliance between **NetRed Ltda.** and **ARKHO**). Reverse-engineered complex **Java** legacy microservices, detected hidden cross-repository dependencies, and mapped a **500+ table enterprise database (ETL)** into a modern **TypeScript (`NestJS` + `Next.js`)** event-driven architecture on **AWS (`Lambda`, `API Gateway`, `Step Functions`, `Amazon SQS`, `S3`, `Docker` versioned on `Amazon ECR & ECS`, `RDS`, `DynamoDB`, `Redis / ElastiCache`, `AWS SAM`, `Sandbox` & `IAM`)**.
 * ⚡ **Agentic AI & Augmented Engineering**: Advanced practitioner in next-generation software development leveraging autonomous AI agents (**Cursor, Claude, Google Antigravity, OpenAI**). Designing agentic workflows, prompt/context architectures, and tool-calling integrations to accelerate enterprise delivery while enforcing strict architectural standards.
 * 🤖 **Applied Mathematics & AI**: Currently pursuing a B.S. in Mathematical Sciences (UCLA). I leverage mathematical rigor, numerical analysis, and machine learning to optimize algorithms and solve complex data problems.
 * 📐 **Fashion Industry & Pattern Making (El Arte del Patronaje)**: Beyond software, I am deeply passionate about garment drafting and the fashion industry. Far from being merely intuitive, pattern making is pure applied mathematics—demanding millimeter precision, geometric drafting, anthropometric proportions, and spatial reasoning to turn 2D equations into structured 3D reality. Both in code architecture and couture, the law is the same: **precision, structure, and elegance**.
@@ -45,10 +45,11 @@ With **8+ years of professional experience**, I specialize in designing and scal
 
 | Project / Client | Domain & Scope | Key Achievements & Tech Stack |
 | :--- | :--- | :--- |
-| **Chilean National Customs Migration** *(Arkho / Netred)* | Governmental / Trade Logistics | Cloud-native migration of mission-critical customs operations into **AWS**, ensuring zero-downtime resilience and high-volume transactional security. |
-| **Miami Never Sleeps** *(Florida, USA)* | High-Volume E-Commerce Backend | Re-architected transactional refund & order dispatch engines, implemented RBAC security, and standardized API documentation with Swagger. `Node.js` `Prisma` `PostgreSQL` |
-| **Organizame SPA** *(Santiago, Chile)* | B2B SaaS Platform | Engineered microservices serving **500+ active businesses**, reducing production error rates by **20%** and boosting user satisfaction by **70%**. `Node.js` `MongoDB` `MySQL` |
-| **IUJO & Academic Cell Labs** *(Venezuela)* | Engineering Education & Scrum | Led development cells delivering software on 4-month sprints with a 100% defense success rate, training 120+ students on professional Git/GitHub workflows. |
+| **ARKHO** *(via NetRed Alliance — Chilean Customs)* | Governmental / Cloud Migration | Migrated mission-critical **Java legacy microservices** and a **500+ table enterprise database (ETL)** to **TypeScript (`NestJS` + `Next.js`)** on **AWS**. Reverse-engineered legacy algorithms and uncovered hidden cross-service dependencies. `AWS Lambda` `API Gateway` `Step Functions` `SQS` `S3` `ECR/ECS` `RDS` `DynamoDB` `Redis` `AWS SAM` `IAM` |
+| **NetRed Ltda.** *(Santiago, Chile)* | Enterprise Cloud & Full-Stack | Polyglot full-stack engineering and ticket-based maintenance across corporate & educational platforms (**school list systems, B2B portals**), managing versioned **Docker** deployments in **AWS (`ECR/ECS`, `RDS`, `DynamoDB`, `Redis`, `SQS`, `S3`, `SAM`, `Sandbox`)**. `TypeScript` `NestJS` `Next.js` `React` `Vue` `Angular` `PHP` `Laravel` |
+| **Miami Never Sleeps** *(Florida, USA)* | High-Volume E-Commerce Backend | Re-architected transactional refund & order dispatch engines, implemented RBAC security, and standardized API documentation with Swagger. `Node.js` `Express` `Prisma` `PostgreSQL` |
+| **Organizame SPA** *(Santiago, Chile)* | B2B SaaS Platform | Engineered microservices serving **500+ active businesses**, reducing production error rates by **20%** and boosting user satisfaction by **70%**. `Node.js` `MongoDB` `MySQL` `Sequelize` |
+| **IUJO & Academic Cell Labs** *(Venezuela)* | Engineering Education & Scrum | Active university professor (*Systems Analysis & Design*, *Software Engineering*, *FOC*). Led Scrum cells with a 100% defense success rate, training 120+ students on GitFlow & GitHub. |
 
 ---
 
@@ -66,15 +67,22 @@ With **8+ years of professional experience**, I specialize in designing and scal
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,githubactions,linux" alt="Cloud & DevOps" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS_Lambda_%26_API_Gateway-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda & API Gateway" />
+  <img src="https://img.shields.io/badge/AWS_Step_Functions-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="Step Functions" />
+  <img src="https://img.shields.io/badge/Amazon_SQS_%26_S3-569A31?style=flat-square&logo=amazonsqs&logoColor=white" alt="SQS & S3" />
+  <img src="https://img.shields.io/badge/Amazon_ECR_%26_ECS_(Docker)-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white" alt="ECR & ECS" />
+  <img src="https://img.shields.io/badge/AWS_SAM_%26_IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SAM & IAM" />
+</p>
 
 #### ⚙️ Backend & Architecture
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs,ts,py,fastapi,django" alt="Backend & Architecture" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,express,java,laravel,php,py,fastapi" alt="Backend & Architecture" />
 </p>
 
-#### 💻 Frontend & UI/UX
+#### 💻 Frontend & Cross-Platform UI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,js,html,css,tailwind,bootstrap" alt="Frontend & UI/UX" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,ts,js,electron,html,css,tailwind" alt="Frontend & UI/UX" />
 </p>
 
 #### 🤖 AI, Machine Learning & Mathematical Modeling
@@ -82,9 +90,9 @@ With **8+ years of professional experience**, I specialize in designing and scal
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda,r" alt="AI & Data Science" />
 </p>
 
-#### 🗄️ Databases & Storage
+#### 🗄️ Databases, Caching & ORMs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" alt="Databases & Storage" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,dynamodb,mongodb,redis,prisma,sequelize,firebase" alt="Databases & Storage" />
 </p>
 
 ---
