@@ -124,8 +124,8 @@ With **8+ years of professional experience**, I specialize in designing and scal
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zedmous&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zedmous&layout=compact&card_width=320&langs_count=6&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a855f7" height="160" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Zedmous/Zedmous/main/files/github-stats.svg" height="165" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Zedmous/Zedmous/main/files/top-langs.svg" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">

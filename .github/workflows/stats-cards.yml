@@ -1,0 +1,38 @@
+name: Update GitHub Stats & Top Languages SVGs
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-cards:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate SVG cards
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-stats-cards.mjs
+
+      - name: Commit & push updated SVGs if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add files/github-stats.svg files/top-langs.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(stats): auto-update GitHub stats & top languages SVGs [skip ci]"
+            git push
+          fi
