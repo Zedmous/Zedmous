@@ -33,6 +33,15 @@ function formatNum(n) {
   return Number(n || 0).toLocaleString('en-US');
 }
 
+function escapeXml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
 async function fetchStatsWithGraphQL() {
   const headers = {
     Authorization: `bearer ${TOKEN}`,
@@ -193,17 +202,17 @@ function buildStatsSvg(stats) {
     const y = 60 + idx * 24;
     return `
     <g transform="translate(24, ${y})">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="#06b6d4" y="-12">
-        <path d="${r.iconPath}"/>
-      </svg>
-      <text x="26" y="0" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="13.5" font-weight="600" fill="#c0caf5">${r.label}</text>
-      <text x="388" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#7dcfff">${r.value}</text>
+      <g transform="translate(0, -12)">
+        <path fill="#06b6d4" d="${r.iconPath}"/>
+      </g>
+      <text x="26" y="0" font-family="Segoe UI, Ubuntu, -apple-system, sans-serif" font-size="13.5" font-weight="600" fill="#c0caf5">${escapeXml(r.label)}</text>
+      <text x="388" y="0" text-anchor="end" font-family="Segoe UI, Ubuntu, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#7dcfff">${escapeXml(r.value)}</text>
     </g>`;
   }).join('');
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="440" height="180" viewBox="0 0 440 180" fill="none" role="img" aria-label="Eduardo Nieves GitHub Stats">
   <rect x="0.75" y="0.75" width="438.5" height="178.5" rx="6" fill="#0d1117" stroke="#7c3aed" stroke-width="1.5"/>
-  <text x="24" y="33" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="17" font-weight="700" fill="#a855f7">Eduardo Nieves's GitHub Stats</text>
+  <text x="24" y="33" font-family="Segoe UI, Ubuntu, -apple-system, sans-serif" font-size="17" font-weight="700" fill="#a855f7">Eduardo Nieves&apos;s GitHub Stats</text>
   <line x1="24" y1="43" x2="416" y2="43" stroke="#1f2335" stroke-width="1"/>
   ${rowsMarkup}
 </svg>
@@ -238,7 +247,7 @@ function buildTopLangsSvg(langBytes) {
     return `
     <g transform="translate(${x}, ${y})">
       <circle cx="5" cy="-4" r="5" fill="${color}"/>
-      <text x="16" y="0" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">${name}</text>
+      <text x="16" y="0" font-family="Segoe UI, Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">${escapeXml(name)}</text>
       <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">${pct}%</text>
     </g>`;
   }).join('');

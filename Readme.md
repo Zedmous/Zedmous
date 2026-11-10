@@ -124,8 +124,8 @@ With **8+ years of professional experience**, I specialize in designing and scal
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zedmous/Zedmous/main/files/github-stats.svg" height="165" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/Zedmous/Zedmous/main/files/top-langs.svg" height="165" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Zedmous/Zedmous/main/files/github-stats.svg?v=2" height="165" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Zedmous/Zedmous/main/files/top-langs.svg?v=2" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">

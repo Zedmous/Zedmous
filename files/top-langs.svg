@@ -7,42 +7,42 @@
   <rect x="0.75" y="0.75" width="348.5" height="178.5" rx="6" fill="#0d1117" stroke="#7c3aed" stroke-width="1.5"/>
   <text x="24" y="33" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="17" font-weight="700" fill="#a855f7">Most Used Languages</text>
   <g transform="translate(24, 52)" clip-path="url(#lang-bar-clip)">
-    <rect x="0.00" y="0" width="134.27" height="9" fill="#f1e05a"/>
-      <rect x="134.27" y="0" width="68.35" height="9" fill="#3178c6"/>
-      <rect x="202.62" y="0" width="50.34" height="9" fill="#3572A5"/>
-      <rect x="252.96" y="0" width="28.64" height="9" fill="#b07219"/>
-      <rect x="281.60" y="0" width="15.08" height="9" fill="#4F5D95"/>
-      <rect x="296.68" y="0" width="5.32" height="9" fill="#41b883"/>
+    <rect x="0.00" y="0" width="148.56" height="9" fill="#f1e05a"/>
+      <rect x="148.56" y="0" width="62.53" height="9" fill="#3178c6"/>
+      <rect x="211.09" y="0" width="46.05" height="9" fill="#3572A5"/>
+      <rect x="257.14" y="0" width="26.20" height="9" fill="#b07219"/>
+      <rect x="283.34" y="0" width="13.79" height="9" fill="#4F5D95"/>
+      <rect x="297.13" y="0" width="4.87" height="9" fill="#41b883"/>
   </g>
   
     <g transform="translate(24, 88)">
       <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
-      <text x="16" y="0" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">JavaScript</text>
-      <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">44.5%</text>
+      <text x="16" y="0" font-family="Segoe UI, Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">JavaScript</text>
+      <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">49.2%</text>
     </g>
     <g transform="translate(179, 88)">
       <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
-      <text x="16" y="0" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">TypeScript</text>
-      <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">22.6%</text>
+      <text x="16" y="0" font-family="Segoe UI, Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">TypeScript</text>
+      <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">20.7%</text>
     </g>
     <g transform="translate(24, 116)">
       <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
-      <text x="16" y="0" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">Python</text>
-      <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">16.7%</text>
+      <text x="16" y="0" font-family="Segoe UI, Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">Python</text>
+      <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">15.2%</text>
     </g>
     <g transform="translate(179, 116)">
       <circle cx="5" cy="-4" r="5" fill="#b07219"/>
-      <text x="16" y="0" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">Java</text>
-      <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">9.5%</text>
+      <text x="16" y="0" font-family="Segoe UI, Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">Java</text>
+      <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">8.7%</text>
     </g>
     <g transform="translate(24, 144)">
       <circle cx="5" cy="-4" r="5" fill="#4F5D95"/>
-      <text x="16" y="0" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">PHP</text>
-      <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">5.0%</text>
+      <text x="16" y="0" font-family="Segoe UI, Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">PHP</text>
+      <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">4.6%</text>
     </g>
     <g transform="translate(179, 144)">
       <circle cx="5" cy="-4" r="5" fill="#41b883"/>
-      <text x="16" y="0" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">Vue</text>
-      <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">1.8%</text>
+      <text x="16" y="0" font-family="Segoe UI, Ubuntu, -apple-system, sans-serif" font-size="12.5" font-weight="600" fill="#c0caf5">Vue</text>
+      <text x="142" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, -apple-system, sans-serif" font-size="12" font-weight="500" fill="#9aa5ce">1.6%</text>
     </g>
 </svg>
